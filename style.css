@@ -1,0 +1,22 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.color-orange {
+    color: orange;
+}
+
+.full-width {
+    width: 50%;
+    padding-left: 1%;
+}
+
+.full-width img {
+    width: 70%;
+}
+
+.flexible-container {
+    display: flex;
+    margin: ;
+}
